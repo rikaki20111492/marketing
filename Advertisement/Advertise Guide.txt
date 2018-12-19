@@ -1,0 +1,91 @@
+- Facebook dựa vào đâu để tiếp cận khách hàng:
+	+ Thông tin trên profile: Tuổi, nghề nghiệp, nơi ở...
+	+ Sự kiện trong đời: Mới kết hôn, con cái, li hôn...
+	+ Hoạt động tương tác fanpage, group
+	+ Hành vi đăng status, chat chit...
+	+ Hành vi truy cập các trang web từ fb
+	+ Thiết bị sử dụng truy cập fb: Di động, dòng máy, hđh
+	+ Hành vi di chuyển hàng ngày
+
+- Tên chiến dịch: Sản phẩm / Địa điểm / Tuổi Giới tính / Chi phí / Ngày bắt đầu / Mục tiêu
+	VD: Son môi / Hà Nội HCM / 17-26 Nữ / 500K Ngày / 28-11-2018 / 50 Đơn Ngày
+	
+- Có thể lập tệp email và sđt, quảng cáo vào đúng tệp đó
+
+- Vị trí: VD: HCM
+	+ Mọi người ở vị trí này: Gồm cả người ghi trên profile là HCM và cả người có vị trí gần đây là HCM
+	+ Người sống ở địa điểm này: Những người ghi trên profile là HCM
+	+ Người ở địa điểm này thời gian gần đây: người có vị trí gần đây là HCM
+	
+	Chọn vị trí thành phố, hoặc có thể thả ghim
+	
+(*) Có thể dùng google trends để xem vùng nào thích hợp với sản phẩm
+
+- Target = Nhắm mục tiêu chi tiết:
+	+ Nhân khẩu học: Dựa theo profile cá nhân: Tuổi, giới tính, trường, ngành nghề
+		Có vài nghìn thông tin(từ khóa)
+		Đo đếm được		
+		Tiếp cận dựa trên học vấn, tốt nghiệp, nhà cửa, lối sống:
+		. Học vấn: 
+			Ngành học: VD: Bán son, mỹ phẩm cao cấp cho ngành Sân khấu điện ảnh
+		. Mới cập nhật công việc mới
+		. Mới kết hôn 3 tháng
+		. Ngày kỉ niệm: 
+			VD: Sắp có ngày kỉ niệm đám cưới, hay yêu nhau, có thể bán quà tặng gì đó(nữ trang, túi xách, dây chuyền, son)...
+		. Sinh nhật sắp diễn ra trong vòng 30 ngày tới: VD: Bán đồng hồ :"Sinh nhật bạn sắp diễn ra, bạn đã tự thưởng cho mình cái gì hay chưa, 
+			giảm giá 30% đồng hồ cho những người có sinh nhật trong ngày ? - ngày ? + 30". --> Chạy quanh năm bài này cũng được
+		. Nghề nghiệp
+		. Chức danh
+	+ Sở thích: Dựa trên hành động trên fb(Vừa like trang nào hay vừa xem cái gì) 
+(**)	Đơn hàng nằm ở đây nhiều nhất, có hàng triệu thông tin(từ khóa)
+		Không đo đếm được
+		. Sở thích hoạt động
+		. fanpage
+		. group
+	+ Hành vi
+		Các hoạt động đo đếm được: VD: Du lịch, chơi game, chi tiêu, dòng máy đang dùng, hđh
+		Đo đếm được
+		. Hoạt động số
+		. Người đăng ảnh: Người đã tải lên 50 cái ảnh tháng trước --> Sống ảo --> Bán đồ sống ảo: Son, mỹ phẩm...
+		. Ngoại kiều
+		. Người update điện thoại mới sớm
+		. Hđh
+		. Điện thoại: Iphone gì? Samsung gì?
+	+ Danh mục khác
+	+ Kết nối:
+		Nhứng người đã thích trang hoặc chưa thích trang
+		
+-->  Chú ý: Loại những người không phù hợp ra khỏi target
+		
+- Vị trí quảng cáo:
+	Chỉnh sửa -> Chỉ chọn facebook: chọn nguồn cấp
+	Di động hoặc Máy tính
+	
+- Ngân sách và lịch chạy
+	Nên chọn ngân sách hàng ngày. Tối thiểu: 20k
+	
+- Tối ưu hóa cho phân phối 
+	+ Tương tác bài viết: Đang thử xem các từ khóa nào tốt nhất(Đa số chọn cái này)
+	+ Lượt xem: Khi biết được chính xác từ khóa đã đúng
+	+ Số người tiếp cận khác nhau hàng ngày: Tần suất hiển thị 1 lần mỗi ngày(muốn ám ảnh khách hàng. VD: Sản phẩm đắt tiền)
+	
+- Giá thầu: Để tự động
+
+- Thời gian tính phí: Để nguyên: Lần hiển thị
+	
+	
+		
+--------------------------------------------------------------------
+- Chú ý khí chạy
+	+ Giờ set ads: 0h00 cho 
+		Tài khoản mới tinh: 0h00 để lúc fb kiểm duyệt xong là vừa(kiểm duyệt tầm 6h-12h)
+		Tài khoản đã từng set ads: Trước 3h fanpage tương tác nhiều nhất
+
+	+ Đăng bài lên ít nhất 3h mới set ads
+	+ Mỗi nhóm chỉ chạy 20k -100k
+	+ Seeding vài comment
+	
+- Cách chia nhóm: 
+	Tạo nhóm lớn theo nhân khẩu học và Hành vi
+	Sau đó chia các nhóm nhỏ theo các từ khóa sở thích
+
